@@ -1,0 +1,233 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "Dell Inspiron 15",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXpmXDgRRn9Vj5m89ov8HB5zxidCoTl9rkjQ&s",
+        "category": "Laptops",
+        "price": 699.99,
+        "description": "Dell Inspiron 15 with Intel i5 processor, 8GB RAM, and 256GB SSD.",
+        "Specification": [
+            "Intel i5 processor",
+            "8GB RAM",
+            "256GB SSD",
+            "15.6-inch FHD display"
+        ],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": 2,
+        "product_title": "MacBook Air M1",
+        "product_image": "https://istockbd.com/cdn/shop/products/MacBooK-Air-M1-Space-Gray-iStockBD.png?v=1649504754&width=720",
+        "category": "Laptops",
+        "price": 999.99,
+        "description": "Apple MacBook Air with M1 chip, 8GB RAM, and 256GB SSD.",
+        "Specification": [
+            "Apple M1 chip",
+            "8GB RAM",
+            "256GB SSD",
+            "13.3-inch Retina display"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 3,
+        "product_title": "HP Pavilion x360",
+        "product_image": "https://sg-files.apjonlinecdn.com/landingpages/content-pages/visid-rich-content/hp-pavilion-x360-14/images/w100_product_highlight_v1.png",
+        "category": "Laptops",
+        "price": 849.99,
+        "description": "HP Pavilion x360 with Intel i7 processor, 16GB RAM, and 512GB SSD.",
+        "Specification": [
+            "Intel i7 processor",
+            "16GB RAM",
+            "512GB SSD",
+            "14-inch FHD touchscreen"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 4,
+        "product_title": "Lenovo ThinkPad X1 Carbon",
+        "product_image": "https://ayota.com.bd/cdn/shop/files/LenovoX1CarbonUsed_1024x.png?v=1714040175",
+        "category": "Laptops",
+        "price": 1299.99,
+        "description": "Lenovo ThinkPad X1 Carbon with Intel i7, 16GB RAM, and 1TB SSD.",
+        "Specification": [
+            "Intel i7 processor",
+            "16GB RAM",
+            "1TB SSD",
+            "14-inch FHD display"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 5,
+        "product_title": "Acer Aspire 5",
+        "product_image": "https://www.ucc.com.bd/image/cache/catalog/laptop/acer/acer-aspire-5/180dd82a-99a6-4a0f-a8d9-31526440898e22041014-550x550.jpg.webp",
+        "category": "Laptops",
+        "price": 549.99,
+        "description": "Acer Aspire 5 with AMD Ryzen 5, 8GB RAM, and 512GB SSD.",
+        "Specification": [
+            "AMD Ryzen 5 processor",
+            "8GB RAM",
+            "512GB SSD",
+            "15.6-inch FHD display"
+        ],
+        "availability": false,
+        "rating": 4.2
+    },
+    {
+        "product_id": 6,
+        "product_title": "Microsoft Surface Laptop 4",
+        "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/Surface-Laptop-4-Price-in-BD.jpg",
+        "category": "Laptops",
+        "price": 999.99,
+        "description": "Microsoft Surface Laptop 4 with Intel i5, 8GB RAM, and 256GB SSD.",
+        "Specification": [
+            "Intel i5 processor",
+            "8GB RAM",
+            "256GB SSD",
+            "13.5-inch PixelSense display"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 7,
+        "product_title": "Bose QuietComfort 35 II",
+        "product_image": "https://gis.com.bd/wp-content/uploads/2020/10/1920-JPG-QC35II_CC_002_RGB.jpg",
+        "category": "Headphones",
+        "price": 299.99,
+        "description": "Bose QuietComfort 35 II wireless noise-canceling headphones.",
+        "Specification": [
+            "Noise cancellation",
+            "Bluetooth",
+            "20 hours battery life"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 8,
+        "product_title": "Sony WH-1000XM4",
+        "product_image": "https://smartbd.com/wp-content/uploads/2023/05/wh1.jpg",
+        "category": "Headphones",
+        "price": 349.99,
+        "description": "Sony WH-1000XM4 wireless over-ear noise-canceling headphones.",
+        "Specification": [
+            "Noise cancellation",
+            "30 hours battery life",
+            "Touch controls"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 9,
+        "product_title": "Samsung Galaxy S21",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/2101-34043.jpg",
+        "category": "Phones",
+        "price": 799.99,
+        "description": "Samsung Galaxy S21 with 128GB storage and 8GB RAM.",
+        "Specification": [
+            "128GB storage",
+            "8GB RAM",
+            "6.2-inch AMOLED display"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 10,
+        "product_title": "Apple iPhone 13",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/3408-34138.jpg",
+        "category": "Phones",
+        "price": 829.99,
+        "description": "Apple iPhone 13 with 128GB storage and 12MP dual cameras.",
+        "Specification": [
+            "128GB storage",
+            "12MP dual cameras",
+            "6.1-inch Super Retina XDR display"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 11,
+        "product_title": "Samsung Galaxy Watch 4",
+        "product_image": "https://www.custommacbd.com/cdn/shop/products/SamsungGalaxyWatch4Black.jpg?v=1630827776",
+        "category": "Smartwatches",
+        "price": 249.99,
+        "description": "Samsung Galaxy Watch 4 with advanced health monitoring features.",
+        "Specification": [
+            "Health monitoring",
+            "Bluetooth",
+            "1.4-inch display"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": 12,
+        "product_title": "Apple Watch Series 7",
+        "product_image": "https://diamu.com.bd/wp-content/uploads/2021/11/Apple-Watch-Series-7-45mm-GPS-Smartwatch.jpg",
+        "category": "Smartwatches",
+        "price": 399.99,
+        "description": "Apple Watch Series 7 with Always-On Retina display.",
+        "Specification": [
+            "Always-On Retina display",
+            "Blood oxygen monitoring",
+            "18-hour battery life"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 13,
+        "product_title": "Samsung Galaxy Tab S7",
+        "product_image": "https://mobilexchangebd.com/storage/products/ap6t2pi9l2tkdlpcigrr.jpeg",
+        "category": "Tablets",
+        "price": 649.99,
+        "description": "Samsung Galaxy Tab S7 with 128GB storage and S Pen included.",
+        "Specification": [
+            "128GB storage",
+            "11-inch LCD display",
+            "S Pen included"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 14,
+        "product_title": "Apple iPad Air",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJpbjJFUvUlm6tImrb3VJQikzsI-neNmGCYg&s",
+        "category": "Tablets",
+        "price": 599.99,
+        "description": "Apple iPad Air with 64GB storage and A14 Bionic chip.",
+        "Specification": [
+            "64GB storage",
+            "10.9-inch Liquid Retina display",
+            "A14 Bionic chip"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 15,
+        "product_title": "Canon EOS Rebel T7",
+        "product_image": "https://www.ubuy.com.bd/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzFJcy1adjZBMEwuX0FDX1NMMTUwMF8uanBn.jpg",
+        "category": "Cameras",
+        "price": 479.99,
+        "description": "Canon EOS Rebel T7 DSLR camera with 18-55mm lens.",
+        "Specification": [
+            "24.1MP sensor",
+            "1080p Full HD video",
+            "Wi-Fi & NFC"
+        ],
+        "availability": true,
+        "rating": 4.4
+    }
+]
