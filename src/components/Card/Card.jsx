@@ -122,6 +122,7 @@ const Card = () => {
     <h3 className="font-bold text-2xl">Payment Successfully</h3>
     <p className="py-4">Thanks for purchasing</p>
     <p className="pb-4">Total : {totalCost.toFixed(2)}</p>
+    
     <div className="modal-action flex items-center justify-center">
       <form method="dialog">
         {/* if there is a button in form, it will close the modal */}
